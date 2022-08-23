@@ -1,0 +1,7 @@
+name: twoopt
+channels:
+  - conda-forge
+dependencies:
+  - math
+  - scipy
+  - numpy
